@@ -1,0 +1,10 @@
+2019-04-06T20:09:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\gamelab\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-04-06T20:54:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\gamelab\wp-includes\wp-db.php on line 2007
+
+2019-04-06T21:00:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\gamelab\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-06T21:04:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\gamelab\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-06T21:38:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\gamelab\wp-includes\wp-db.php on line 2007
+

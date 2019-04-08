@@ -1,0 +1,85 @@
+
+==== DELETED - POST ID 1117 - product - DNK Gray Shoes
+==== IMPORTED - CUSTOMIZER SETTINGS {"astra-settings":{"astra-addon-auto-version":"1.8.0","theme-auto-version":"1.8.0","ast-header-responsive-logo-width":{"desktop":"140","tablet":"","mobile":""},"display-site-title":false,"site-sidebar-layout":"no-sidebar","site-content-layout":"plain-container","body-font-family":"'Montserrat', sans-serif","body-font-weight":"300","headings-font-family":"'Montserrat', sans-serif","headings-font-weight":"500","header-main-sep":0,"theme-color":"#f16e43","header-layouts":"header-main-layout-1","text-color":"rgba(173,173,173,0.98)","link-color":"#f16e43","font-size-h1":{"desktop":"70","tablet":"58","mobile":"35","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"40","tablet":"28","mobile":"20","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"25","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"header-main-rt-section":"text-html","header-main-rt-section-html":"<i class=\"fa fa-volume-control-phone\" style=\"font-size:18px;color:#f16e43\"><\/i>  123-456-7890\/91 <\/i>","link-h-color":"","font-size-h5":{"desktop":"19","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-body":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","headings-text-transform":"","para-margin-bottom":"2.75","footer-sml-divider":0,"footer-bg-obj":{"background-color":"#000000","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title]","footer-color":"#bcbcbc","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#f16e43","button-bg-h-color":"#ff6947","header-main-layout-width":"full","above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"hide-custom-menu-mobile":false,"mobile-header-toggle-btn-style":"fill","body-font-variant":"300","headings-font-variant":"500","transparent-header-enable":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"different-mobile-logo":false,"blog-single-post-structure":["single-image"],"blog-single-width":"custom","blog-single-max-width":1200,"single-post-content-layout":"boxed-container","shop-quick-view-stick-cart":true,"transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""}},"custom-css":".main-header-bar {\n    background-color: #020315;\n}"}
+==== IMPORTING from XML https://websitedemos.net/wp-content/uploads/astra-sites/285/wxr.xml
+==== INSERTED - Term 63 - {"term_id":63,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":63,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+==== INSERTED - Term 64 - {"term_id":64,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":64,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+==== INSERTED - Term 65 - {"term_id":65,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":65,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+==== INSERTED - Post 1269 - wpcf7_contact_form - Contact form
+==== INSERTED - Post 5 - page - Home
+==== INSERTED - Post 1270 - page - Portfolio
+==== INSERTED - Post 1271 - page - About
+==== INSERTED - Post 15 - page - Contact
+==== INSERTED - Post 16 - page - Testimonials
+==== INSERTED - Post 18 - nav_menu_item - 
+==== INSERTED - Post 19 - nav_menu_item - 
+==== INSERTED - Post 21 - nav_menu_item - 
+==== INSERTED - Post 22 - nav_menu_item - 
+==== INSERTED - Post 23 - nav_menu_item - 
+==== INSERTED - Post 69 - attachment - logo05-free-img
+==== INSERTED - Post 70 - attachment - logo04-free-img
+==== INSERTED - Post 72 - attachment - logo02-free-img
+==== INSERTED - Post 73 - attachment - logo01-free-img
+==== INSERTED - Post 74 - attachment - logo06-free-img
+==== INSERTED - Post 82 - attachment - pic06-free-img
+==== INSERTED - Post 102 - custom_css - astra
+==== INSERTED - Post 112 - attachment - lines02-free-img
+==== INSERTED - Post 134 - attachment - pic12-free-img
+==== INSERTED - Post 135 - attachment - pic13-free-img
+==== INSERTED - Post 143 - attachment - owner-free-img
+==== INSERTED - Post 154 - attachment - lhtqjazuprq-breather.jpg
+==== INSERTED - Post 184 - attachment - archi02-free-img
+==== INSERTED - Post 186 - attachment - archi04-free-img
+==== INSERTED - Post 191 - attachment - archi06-free-img
+==== INSERTED - Post 214 - attachment - pic11-free-img
+==== INSERTED - Post 232 - attachment - slide01-free-img
+==== INSERTED - Post 247 - attachment - hero02-free-img
+==== INSERTED - Post 253 - attachment - architect-logo3-free-img
+==== INSERTED - Post 255 - attachment - pic13-free-img
+==== INSERTED - Post 260 - attachment - pic14-free-img
+==== INSERTED - Post 263 - attachment - planner-free-img
+==== INSERTED - Post 264 - attachment - renovation-free-img
+==== INSERTED - Post 265 - attachment - real-estate-free-img
+==== INSERTED - Post 266 - attachment - consultation-free-img
+==== INSERTED - Post 267 - attachment - interior-free-img
+==== INSERTED - Post 268 - attachment - small-office-free-img
+==== INSERTED - Post 271 - attachment - quote-free-img
+==== INSERTED - Post 286 - attachment - logo-bg-free-img
+==== INSERTED - Post 290 - attachment - owner2-free-img
+==== INSERTED - Post 292 - attachment - team-03-free-img
+==== INSERTED - Post 296 - attachment - happy-clients-free-img
+==== INSERTED - Post 299 - attachment - clients01-free-img
+==== INSERTED - Post 300 - attachment - clients03-free-img
+==== INSERTED - Post 301 - attachment - clients04-free-img
+==== INSERTED - Post 303 - attachment - living-room2-free-img
+==== INSERTED - Post 304 - attachment - living-room1-free-img
+==== INSERTED - Post 306 - attachment - living-room4-free-img
+==== INSERTED - Post 308 - attachment - kitcen02-free-img
+==== INSERTED - Post 310 - attachment - kitcen03-free-img
+==== INSERTED - Post 311 - attachment - office01-free-img
+==== INSERTED - Post 312 - attachment - office02-free-img
+==== INSERTED - Post 313 - attachment - office03-free-img
+==== INSERTED - Post 315 - attachment - kitcen03-free-img
+==== INSERTED - Post 316 - attachment - kitcen05-free-img
+==== INSERTED - Post 317 - attachment - kitcen04-free-img
+==== INSERTED - Post 318 - attachment - bedroom03-free-img
+==== INSERTED - Post 319 - attachment - bedroom01-free-img
+==== INSERTED - Post 320 - attachment - bedroom02-free-img
+==== INSERTED - Post 323 - attachment - project-free-img
+==== INSERTED - Post 324 - attachment - living-room5-free-img
+==== INSERTED - Post 327 - attachment - interior-favicon-free-img
+==== INSERTED - Post 331 - attachment - interior-firm-facebook-yoast-free-img
+==== INSERTED - Post 334 - elementor_library - features
+==== INSERTED - Post 337 - page - Blog
+==== INSERTED - Post 340 - post - How To Prepare For Overnight Guests
+==== INSERTED - Post 363 - attachment - blog-bg-img
+==== INSERTED - Post 426 - post - Last Minute Decor And DIY Gift Ideas!
+==== INSERTED - Post 431 - attachment - blog01-free-img
+==== INSERTED - Post 440 - post - Makeover Plans For The Dining Room
+==== INSERTED - Post 443 - attachment - blog02-free-img
+==== INSERTED - Post 445 - post - Bedroom! Embracing The Maximalism Trend
+==== INSERTED - Post 449 - attachment - blog03-free-img
+==== INSERTED - Post 461 - nav_menu_item - 
+==== IMPORTED - SITE OPTIONS {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/interior-firm-02\/wp-content\/uploads\/sites\/285\/2018\/10\/architect-logo3-free-img.svg","nav_menu_locations":{"primary":"primary-menu","footer_menu":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false}}
+==== IMPORTED - WIDGETS {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+==== Complete ====
